@@ -14,7 +14,7 @@ This is a website for managing a Pets Hotel "Oliver", showcasing its services, f
 
 ## Live Website
 
-You can visit the live website for the Pets Hotel (https://hotel-everdog-oliver.glitch.me).
+You can visit the live website for the Pets Hotel [(https://hotel-everdog-oliver.glitch.me).](https://hotel-everdog-oliver.glitch.me/#).
 
 ## Getting Started
 
