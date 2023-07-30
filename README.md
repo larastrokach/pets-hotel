@@ -18,4 +18,5 @@ You can visit the live website for the Pets Hotel [here](https://example.com/pet
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository: git clone [https://github.com/larastrokach/pets-hotel.git]
+2. 
