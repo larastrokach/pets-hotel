@@ -14,9 +14,14 @@ This is a website for managing a Pets Hotel "Oliver", showcasing its services, f
 
 ## Live Website
 
-You can visit the live website for the Pets Hotel [here](https://example.com/pets-hotel).
+You can visit the live website for the Pets Hotel [here]([https://example.com/pets-hotel](https://hotel-everdog-oliver.glitch.me).
 
 ## Getting Started
 
 1. Clone the repository: git clone [https://github.com/larastrokach/pets-hotel.git]
-2. 
+2.  Navigate to the project directly: cd tpets-hotel
+3. Open the index.html file in a web browser to view the web application 
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
